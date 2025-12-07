@@ -1,7 +1,7 @@
 # QTrack — Smart Health Queue & Appointment Management System
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6935e848e1b88191b2387d324b302ee8" alt="QTrack Banner"/>
+  <!-- <img src="https://chatgpt.com/s/m_6935e848e1b88191b2387d324b302ee8" alt="QTrack Banner"/> -->
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Styling-Tailwind-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RealTime-Socket.io-black?style=for-the-badge"/>
-</p>
+</p> -->
 
 ---
 
@@ -131,5 +131,5 @@ QTrack brings:
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/qtrack.git
+git clone https://github.com/rahul-sisodiya/QTrack-Final.git
 cd qtrack
