@@ -1,7 +1,7 @@
-# 🎉 QTrack — Smart Health Queue & Appointment Management System
+# QTrack — Smart Health Queue & Appointment Management System
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x280.png?text=QTrack+-+Health+Management+System" alt="QTrack Banner"/>
+  <img src="https://chatgpt.com/s/m_6935e848e1b88191b2387d324b302ee8" alt="QTrack Banner"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ---
 
 # 🎬 Live Demo (GIF preview)
-> Replace this link with your actual demo GIF
+
 
 <p align="center">
   <img src="https://i.giphy.com/media/3EfgWHj0YIDrW/giphy.gif" width="600"/>
