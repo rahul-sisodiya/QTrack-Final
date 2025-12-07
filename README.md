@@ -1,7 +1,135 @@
-﻿# QTrack-Q2
+# 🎉 QTrack — Smart Health Queue & Appointment Management System
 
-## Documentation
+<p align="center">
+  <img src="https://via.placeholder.com/1000x280.png?text=QTrack+-+Health+Management+System" alt="QTrack Banner"/>
+</p>
 
-- Tech Stack & Build Details: `docs/TECH_STACK.md`
-  - Path: `c:\Users\MYTECH\Desktop\QTrack-Trea-figma\docs\TECH_STACK.md`
-  - Covers modules, libraries, dependencies, environment, API endpoints, architecture, and deployment.
+<p align="center">
+  <b>A clean, modern, real-time healthcare appointment & queue management system built with React, Tailwind, Node.js, Express, and MongoDB.</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Styling-Tailwind-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RealTime-Socket.io-black?style=for-the-badge"/>
+</p>
+
+---
+
+# 🎬 Live Demo (GIF preview)
+> Replace this link with your actual demo GIF
+
+<p align="center">
+  <img src="https://i.giphy.com/media/3EfgWHj0YIDrW/giphy.gif" width="600"/>
+</p>
+
+---
+
+# ✨ Why QTrack?
+
+QTrack solves the biggest headache in clinics:  
+**long waiting lines, outdated booking systems, no real-time tracking, and inconsistent patient records.**
+
+QTrack brings:
+
+✔ Real-time queue tracking  
+✔ Smart appointment booking  
+✔ Clean admin dashboards  
+✔ Analytics & health insights  
+✔ Modern UI/UX  
+✔ Supports small clinics to hospitals  
+
+---
+
+# 🚀 Features
+
+## 👤 Patient Features
+- Join queue instantly  
+- Check live queue position  
+- Book doctor appointments  
+- View health records  
+- Track past visits  
+- Light/Dark mode  
+- Real-time updates  
+
+---
+
+## 🩺 Doctor/Admin Features
+- Admin login  
+- Manage appointments  
+- View + update queue  
+- Patient search/filter  
+- Community page (like LinkedIn posts)  
+- Dashboard analytics (charts, insights)  
+- Manage health records  
+
+---
+
+# 🧱 System Architecture
+
+<p align="center">
+  <img src="https://via.placeholder.com/900x450.png?text=System+Architecture+Diagram" />
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+| Tech | Role |
+|------|------|
+| React | UI Framework |
+| Tailwind CSS | Styling |
+| Recharts | Analytics charts |
+| Context API | Global state |
+| Framer Motion | Animations |
+
+### Backend
+| Tech | Role |
+|------|------|
+| Node.js | Backend runtime |
+| Express.js | API framework |
+| MongoDB | Primary database |
+| Mongoose | ODM |
+| JWT | Authentication |
+| Socket.io | Real-time queues |
+
+---
+
+# 📁 Folder Structure
+
+  QTrack/
+  │
+  ├── frontend/
+  │ ├── src/
+  │ │ ├── components/
+  │ │ ├── pages/
+  │ │ ├── context/
+  │ │ ├── layouts/
+  │ │ └── App.js
+  │ └── package.json
+  │
+  ├── backend/
+  │ ├── config/
+  │ ├── controllers/
+  │ ├── middleware/
+  │ ├── models/
+  │ ├── routes/
+  │ ├── server.js
+  │ └── package.json
+  │
+  └── README.md
+
+  ---
+
+# ⚙️ Installation
+
+## 📦 Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/qtrack.git
+cd qtrack
